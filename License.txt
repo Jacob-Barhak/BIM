@@ -1,0 +1,127 @@
+Copyright (C) 2012 The Regents of the University of Michigan. All Rights Reserved. 
+
+
+The software and related documentation and data are part of the BIM application. 
+
+
+PERMISSION ISGRANTED TO USE, COPY, CREATE DERIVATIVE WORKS AND REDISTRIBUTE THIS SOFTWARE AND SUCH DERIVATIVE WORKS FOR NONCOMMERCIAL EDUCATION AND RESEARCH PURPOSES, SO LONG AS NO FEE IS CHARGED, AND SO LONG AS THE COPYRIGHT NOTICE ABOVE, THIS GRANT OF PERMISSION, AND THE DISCLAIMER BELOW APPEAR IN ALL COPIES MADE; AND SO LONG AS THE NAME OF THE UNIVERSITY OF MICHIGAN IS NOT USED IN ANY ADVERTISING OR PUBLICITY PERTAINING TO THE USE OR DISTRIBUTION OF THIS SOFTWARE WITHOUT SPECIFIC, WRITTEN PRIOR AUTHORIZATION.
+THIS SOFTWARE IS PROVIDED AS IS, WITHOUT REPRESENTATION FROM THE UNIVERSITY OF MICHIGAN AS TO ITS FITNESS FOR ANY PURPOSE, AND WITHOUT WARRANTY BY THE UNIVERSITY OF MICHIGAN OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR APARTICULAR PURPOSE. THE REGENTS OF THE UNIVERSITY OF MICHIGAN SHALL NOT BELIABLE FOR ANY DAMAGES, INCLUDING SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WITH RESPECT TO ANY CLAIM ARISING OUT OF OR IN CONNECTION WITH THE USE OF THE SOFTWARE, EVEN IF IT HAS BEEN OR IS HEREAFTER ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+----------------------------------------------------------------------------
+General Information
+----------------------------------------------------------------------------
+
+The BIM software registers point clouds to CAD models. It includes automatic registration algorithms. It is useful in cases where complex shapes are inspected by laser scanners. Sample cloud points and models are provided with the software.
+The BIM software was developed at the NSF Engineering Research Center for Reconfigurable Manufacturing Systems (ERC/RMS) at the University of Michigan.
+This is the version from 20 November 2005. The development team at the time was: Xinju Li, Jacob Barhak, Igor Guskov, Geoffrey W. Blake. The software was developed for a while by multiple people and not well documented. Also some time has passed since it was last compiled, so recompiling it may take an effort.
+
+For Questions regarding the system, please contact Jacob Barhak at:
+jacob.barhak@gmail.com
+For questions regarding possible commercial use please contact Prof. Yoram Koren at:
+ykoren@umich.edu
+
+For further information about the software, please check the following sources:
+
+http://www.youtube.com/watch?v=fQHpF8oR-dg&feature=youtube_gdata_player
+
+X. Li, I. Guskov, J. Barhak, "Feature-based alignment of range scan data to CAD model". International Journal of Shape Modeling Vol. 13, No. 1 (June 2007) Online: http://dx.doi.org/10.1142/S0218654307000920
+
+X. Li, J. Barhak, I. Guskov, G. W. Blake, "Automatic registration for inspection of complex shapes". Virtual and Physical Prototyping, Volume 2, Issue 2 June 2007, pages 75 - 88. Online: http://dx.doi.org/10.1080/17452750701374339
+
+If you find code useful, please provide a reference for those publications.
+
+----------------------------------------------------------------------------
+
+The BIM application includes the following software and data that match the above license yet originated elsewhere. Here is a list of these contributing sources:
+
+
+----------------------------------------------------------------------------
+The Approximate Nearest Neighbor Library (ANN) library
+----------------------------------------------------------------------------
+The Approximate Nearest Neighbor Library (ANN) library is available in the ANN directory. It is copyrighted as follows: (c) 1997-1998 University of Maryland and Sunil Arya and David Mount. It is available under the same license terms as above from the library creators. Here is the license verbatim:
+
+Copyright (c) 1997-1998 University of Maryland and Sunil Arya and David Mount.  All Rights Reserved.
+
+This software and related documentation is part of the Approximate Nearest Neighbor Library (ANN).
+
+Permission to use, copy, and distribute this software and its documentation is hereby granted free of charge, provided that 
+(1) it is not a component of a commercial product, and 
+(2) this notice appears in all copies of the software and related documentation. 
+
+The University of Maryland (U.M.) and the authors make no representations about the suitability or fitness of this software for any purpose.  It is provided "as is" without express or implied warranty.
+
+
+----------------------------------------------------------------------------
+ArcBall
+----------------------------------------------------------------------------
+
+ArcBall is available on the web under a free license. Here is the license for this file:
+The following text constitutes the license agreement for the ViewVC software (formerly known as ViewCVS). It is an agreement between The ViewCVS Group and the users of ViewVC.
+
+
+Copyright © 1999-2012 The ViewCVS Group. All rights reserved.
+
+By using ViewVC, you agree to the terms and conditions set forth below:
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+1.Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+2.Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+ 
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+The following changes have occured to this license over time:
+May 12, 2001 — copyright years updated
+September 5, 2002 — copyright years updated
+March 17, 2006 — software renamed from "ViewCVS"
+April 10, 2007 — copyright years updated
+February 22, 2008 — copyright years updated
+March 18, 2009 — copyright years updated
+March 29, 2010 — copyright years updated
+February 18, 2011 — copyright years updated
+January 23, 2012 — copyright years updated
+
+
+
+----------------------------------------------------------------------------
+GLFont
+----------------------------------------------------------------------------
+
+Code is from http://nehe.gamedev.net and their OpenGL font example
+ 
+The developers of the example just ask for recognition which is hereby given. 
+
+See http://nehe.gamedev.net/tutorial/bitmap_fonts/17002/ and http://www.gamedev.net/topic/601365-nehe-tutorials-license/ for further details. 
+
+
+
+----------------------------------------------------------------------------
+Template Numerical Toolkit (TNT)
+----------------------------------------------------------------------------
+The Template Numerical Toolkit (TNT) is provided under the directory SVD. It is avialbale under the following license:
+
+Template Numerical Toolkit (TNT)
+
+Mathematical and Computational Sciences Division
+National Institute of Technology, Gaithersburg, MD USA
+
+This software was developed at the National Institute of Standards and Technology (NIST) by employees of the Federal Government in the course of their official duties. Pursuant to title 17 Section 105 of the United States Code, this software is not subject to copyright protection and is in the public domain. NIST assumes no responsibility whatsoever for its use by other parties, and makes no guarantees, expressed or implied, about its quality, reliability, or any other characteristic.
+
+
+
+
+----------------------------------------------------------------------------
+Example Data
+----------------------------------------------------------------------------
+The models under the Data directory were manufactured and scanned. The data includes the model file that was manufactured and the scanned data. There are no restrictions for releasing this data.
+
+The Turbine Blade model and Stanford Bunny were obtained from the Large Geometric Models Archive at the Georgia Institute of Technology. The web site is:
+
+http://www.cc.gatech.edu/projects/large_models/
+
+Here is text from this web site:
+
+The purpose of this site is to provide large models to researchers in computer graphics and related fields. There are thousands of geometric models available on the Web, yet the vast majority of them are small and thus do not provide an adequate challenge to the creators of new geometric algorithms and techniques. Very large models are a challenge to techniques for rendering, automatic simplification, geometry compression, visibility techniques, surface reconstruction and surface fitting. In the Digital Age there are many sources of very large geometric datasets, yet many researchers do not have access to such data. This website is an attempt to remedy this situation.  
+
+

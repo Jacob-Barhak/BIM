@@ -1,0 +1,4 @@
+<mesh> .\bunny_big.obj
+<signature> .\bunny_big.sig
+<part> .\bunny_in_Inches_no_standoff_90.snr
+<part_trans_matrix> 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 

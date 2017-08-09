@@ -1,0 +1,80 @@
+3323.1 sec
+
+>> 
+ans =
+
+Scan number 2, 
+ Absolute angles are: (30.293 0.23492 30.293) 
+ Relative angles are: (30.293 0.23492 30.293) 
+
+
+ans =
+
+Scan number 3, 
+ Absolute angles are: (59.58 1.1187 59.581) 
+ Relative angles are: (29.288 0.94992 29.293) 
+
+
+ans =
+
+Scan number 4, 
+ Absolute angles are: (91.23 3.9216 91.147) 
+ Relative angles are: (31.663 3.0977 31.652) 
+
+
+ans =
+
+Scan number 5, 
+ Absolute angles are: (120.81 2.7204 120.74) 
+ Relative angles are: (29.585 2.8497 29.609) 
+
+
+ans =
+
+Scan number 6, 
+ Absolute angles are: (146.14 1.869 146.19) 
+ Relative angles are: (25.346 3.5761 25.596) 
+
+
+ans =
+
+Scan number 7, 
+ Absolute angles are: (179.34 1.8008 178.27) 
+ Relative angles are: (33.593 2.7333 33.594) 
+
+
+ans =
+
+Scan number 8, 
+ Absolute angles are: (150.71 2.2569 150.64) 
+ Relative angles are: (29.574 0.74713 29.58) 
+
+
+ans =
+
+Scan number 9, 
+ Absolute angles are: (122.14 1.9095 122.1) 
+ Relative angles are: (28.586 1.0323 28.568) 
+
+
+ans =
+
+Scan number 10, 
+ Absolute angles are: (88.293 1.7669 88.311) 
+ Relative angles are: (33.848 2.6486 33.953) 
+
+
+ans =
+
+Scan number 11, 
+ Absolute angles are: (58.116 0.36098 58.115) 
+ Relative angles are: (30.191 1.5396 30.226) 
+
+
+ans =
+
+Scan number 12, 
+ Absolute angles are: (29.21 0.17676 29.21) 
+ Relative angles are: (28.906 0.2691 28.906) 
+
+>> 
